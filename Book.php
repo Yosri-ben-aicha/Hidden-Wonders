@@ -116,7 +116,7 @@
       
      
     </footer>
-    <!-- Footer End -->
+    <!-- Footer .End -->
 
 
   
